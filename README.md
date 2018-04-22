@@ -1,6 +1,8 @@
 # FaceRecognition
 
-#### 这个demo参考了简书上的一位iOS大佬所写的！
+#### 这个demo参考了简书上的一位iOS大佬所写的！（还是女的，让人佩服！！！）
+
+#### 大佬的传送门:<https://www.jianshu.com/u/1b4c832fb2ca>
 
 #### 利用AVFoundation进行人脸识别  
 
